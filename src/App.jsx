@@ -128,6 +128,7 @@ function App() {
       <div className="bg-indigo-300 border border-red-400"></div>
       <div className="bg-pink-300 border border-red-400"></div>
       <div className="bg-yellow-300 border border-red-400"></div>
+      <div className="bg-yellow-300 border border-red-300"></div>
     </div>
   </div>
     </>
